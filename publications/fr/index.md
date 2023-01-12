@@ -3,7 +3,7 @@ title: <i class="far fa-newspaper color-1-dark-text"></i> &nbsp;Nouvelles
 lang: fr
 translationID: news
 type: system_grid
-og-title: Nouvelles
+og-title: Qui de neuf?
 layout: blog_page
 index: 1
 ---
